@@ -12,7 +12,7 @@ This project focuses on predicting RNA binding affinity (`RNA_28`) for approxima
 - **Features**: Structural and chemical descriptors  
 - **Target**: `RNA_28` — a continuous score indicating RNA binding affinity  
 - **Note**: Due to file size limitations, only a **sample subset** is included in this repository for demonstration purposes.
-
+- 📎 [Download Sample Dataset (1% subset)](https://drive.google.com/file/d/1zKGIo9-B7Tvaz_-75G3c-4Emo2lg06_b/view?usp=drive_link)
 ---
 
 ## 🧪 Project Workflow
